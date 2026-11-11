@@ -7,4 +7,4 @@ welcome to my new project
  # subject 
  I currently working on the basic understandings of the git and github
  # college and branch 
- I am b tech 4 sem studebt of the lobal engineering collage jabalpur
+ I am b tech 4 sem studebt of the lobal engineering collage jabalpur.
